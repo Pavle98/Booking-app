@@ -1,0 +1,16 @@
+Belgrade,1
+Novi Sad,2
+New York,3
+Milan,4
+Paris,5
+Tehran,6
+Rome,7
+Tokyo,8
+Beirut,9
+Mexico City,10
+Skopje,11
+Bucharest,12
+Moscow,13
+Bratislava,14
+Sao Tome,15
+Ljubljana,16

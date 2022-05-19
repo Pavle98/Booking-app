@@ -1,0 +1,8 @@
+0,a,a,admin
+1,admin,admin,admin
+2,user,user,user
+3,random,kokice,user
+4,jopa,kraljpass,admin
+5,tester,12,User
+6,testertwo,okej,admin
+7,newUser,interesting,user0
