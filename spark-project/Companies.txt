@@ -1,9 +1,0 @@
-Fast Travel,95
-Trivago,67
-JAT,162
-RAT,164
-Key Travel,58
-IQ Travel,14
-Bradshaw Travel,35
-Romania Airways,234
-GoGo Travel,117
